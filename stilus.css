@@ -1,0 +1,62 @@
+/*Függőleges navigációs sáv
+
+*{
+    border: 1px solid blue; 
+}
+
+
+body{
+    margin: 0px;
+}
+ul{
+    list-style-type: none;
+    margin: 0px;
+    padding: 0px;
+    width: 20% ;
+}
+ul li{
+    
+    
+}
+ul li a{
+    display: block;
+    padding: 5px;
+    background-color: rgb(53, 80, 26);
+    color: darkgray;
+    text-align: center;
+   
+}
+a{
+    text-decoration: none;
+}
+a:hover:not(active){
+    background-color: darkred;
+}
+.active{
+    background-color: darkviolet;
+} /*
+*/
+
+body{
+    margin: 0px;
+}
+
+ul{
+    list-style-type: none;
+    margin: 0px;
+    padding: 0px;
+    background-color: forestgreen;
+    overflow: hidden;
+}
+
+ul li{
+    text-align: center;
+}
+ul li a{
+    display: block;
+    padding: 5px;
+    background-color: rgb(129, 253, 5);
+    color: rgb(44, 43, 43);
+    text-align: center;
+
+}
